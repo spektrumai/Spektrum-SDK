@@ -1,0 +1,40 @@
+name: spektrum_app
+description: Spektrums Open Source SDK.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.6.6+1
+  dotted_border: ^1.0.5
+  mlkit: ^0.15.1
+  flutter_native_image: ^0.0.5
+  tflite: ^1.0.6
+
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  assets:
+    - assets/img/spektrum.png
+    - assets/img/scan.png
+    - assets/ic_icon.png
+    - assets/ic_menu.png
+    - assets/ic_scan.png
+    - new_mobile_model.tflite
+    - class_labels.txt
+
+  uses-material-design: true
+
+
+

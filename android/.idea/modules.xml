@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_image-0.0.5+2/android/flutter_native_image.iml" filepath="D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_image-0.0.5+2/android/flutter_native_image.iml" group="android/flutter_native_image" />
+      <module fileurl="file://D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.7/android/flutter_plugin_android_lifecycle.iml" filepath="D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.7/android/flutter_plugin_android_lifecycle.iml" group="android/flutter_plugin_android_lifecycle" />
+      <module fileurl="file://D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.6+1/android/image_picker.iml" filepath="D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.6+1/android/image_picker.iml" group="android/image_picker" />
+      <module fileurl="file://D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/mlkit-0.15.1/android/mlkit.iml" filepath="D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/mlkit-0.15.1/android/mlkit.iml" group="android/mlkit" />
+      <module fileurl="file://D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/tflite-1.0.6/android/tflite.iml" filepath="D:/SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/tflite-1.0.6/android/tflite.iml" group="android/tflite" />
+    </modules>
+  </component>
+</project>
