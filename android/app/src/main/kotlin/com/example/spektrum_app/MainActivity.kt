@@ -1,4 +1,4 @@
-package com.example.spektrum_app
+package com.spektrumapp
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
